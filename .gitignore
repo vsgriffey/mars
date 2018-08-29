@@ -3,3 +3,4 @@ reviewer_comments.txt
 *.jpg
 *.jpeg
 subfolder_a/
+!one_special_image.png
